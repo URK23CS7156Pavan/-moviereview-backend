@@ -1,0 +1,13 @@
+com\example\movies\controller\SeatController.class
+com\example\movies\service\ReviewService.class
+com\example\movies\model\Movie.class
+com\example\movies\controller\MovieController.class
+com\example\movies\repository\MovieRepository.class
+com\example\movies\model\Review.class
+com\example\movies\controller\ReviewController.class
+com\example\movies\repository\ReviewRepository.class
+com\example\movies\repository\SeatRepository.class
+com\example\movies\service\SeatService.class
+com\example\movies\model\Seat.class
+com\example\movies\MovieManagementApplication.class
+com\example\movies\service\MovieService.class
